@@ -23,7 +23,7 @@ class Tour extends Component {
               <h5>
                 info{" "}
                 <span onClick={this.handleInfo}>
-                  <i className="fas fa-caret-square-down"></i>
+                  <i className="fas fa-caret-square-down"></i> 
                 </span>
               </h5>
               {this.state.showInfo && <p>{this.props.tour.info}</p>}

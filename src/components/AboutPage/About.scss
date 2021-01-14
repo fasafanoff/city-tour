@@ -1,0 +1,21 @@
+@import '../../index.scss';
+
+.about
+{
+    margin: 4rem;
+    padding: 2rem;
+    background-color: $mainGrey;
+    border-radius: 2rem;
+
+
+    h1{
+        color: $mainGreen;
+        margin-bottom: 2rem;
+        text-align: center;
+
+    }
+    p{
+        text-indent: 2rem;
+        font-size: 20px;
+    }
+}

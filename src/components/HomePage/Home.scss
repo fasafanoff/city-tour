@@ -1,0 +1,19 @@
+@import "../../index.scss";
+.home-page{
+    background-color: $mainGrey;
+    margin: 2rem;
+    padding: 2rem;  
+    border-radius:2rem;
+
+    h1{
+        color: $mainGreen;
+        text-align: center;
+    }
+
+    p{
+        text-align: center;
+        margin: 2rem;
+    }
+
+
+}
